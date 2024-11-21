@@ -25,15 +25,20 @@ const time = process.uptime(),
     seconds = Math.floor(time % 60);
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Manila").format("『D/MM/YYYY』 【hh:mm:ss】");
-var link = [https://i.postimg.cc/13j22KWT/Messenger-creation-91412df6-6e58-45b4-967c-4f320da81804.jpg"", 
+var link = "https://i.postimg.cc/wMgwYDnt/3943d15d-176e-4f98-b47f-e6b901b4de94.jpg
+i.postimg.cc", 
 
-            "https://i.postimg.cc/13j22KWT/Messenger-creation-91412df6-6e58-45b4-967c-4f320da81804.jpg", 
+            "https://i.postimg.cc/wMgwYDnt/3943d15d-176e-4f98-b47f-e6b901b4de94.jpg
+i.postimg.cc", 
 ,
-            "https://i.postimg.cc/13j22KWT/Messenger-creation-91412df6-6e58-45b4-967c-4f320da81804.jpg"
+            "https://i.postimg.cc/wMgwYDnt/3943d15d-176e-4f98-b47f-e6b901b4de94.jpg
+i.postimg.cc"
 
-"https://i.postimg.cc/13j22KWT/Messenger-creation-91412df6-6e58-45b4-967c-4f320da81804.jpg",
+"https://i.postimg.cc/wMgwYDnt/3943d15d-176e-4f98-b47f-e6b901b4de94.jpg
+i.postimg.cc",
 
-            "https://i.postimg.cc/13j22KWT/Messenger-creation-91412df6-6e58-45b4-967c-4f320da81804.jpg"];
+            "https://i.postimg.cc/wMgwYDnt/3943d15d-176e-4f98-b47f-e6b901b4de94.jpg
+i.postimg.cc"];
 
 var callback = () => api.sendMessage({body:`𝙸𝙽𝙵𝙾 𝙰𝙽𝙳 𝙱𝙾𝚃 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽
 ________________________________________
