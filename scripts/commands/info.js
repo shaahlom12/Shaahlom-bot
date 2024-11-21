@@ -37,6 +37,7 @@ var callback = () => api.sendMessage({body:`
 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: 01709281334
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤 :https://www.facebook.com/broken.shourov.ss `,attachment: fs.createReadStream(__dirname + "/cache/1.png")}, event.threadID, () => 
   fs.unlinkSync(__dirname + "/cache/1.png"));  
-    return request(encodeURI(`https://i.postimg.cc/13j22KWT/Messenger-creation-91412df6-6e58-45b4-967c-4f320da81804.jpg`)).pipe(
+    return request(encodeURI(`https://i.postimg.cc/wMgwYDnt/3943d15d-176e-4f98-b47f-e6b901b4de94.jpg
+i.postimg.cc`)).pipe(
 fs.createWriteStream(__dirname+'/cache/1.png')).on('close',() => callback());
  };
